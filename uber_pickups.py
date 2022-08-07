@@ -5,8 +5,14 @@ import numpy as np
 #Help XXXX
 #$ streamlit help
 
+
 #Adiona Titulo ao APP
-st.title('Uber pickups in NYC')
+st.title('Portifólio teste do Evandro')
+
+st.subheader('Em breve será disponibilizado o Portifólio definitivo')
+
+st.subheader("Uber's Pick up")
+
 
 #Função para baixar o arquivo e carregar-lo em um dataframe
 DATE_COLUMN = 'date/time'
